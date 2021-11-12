@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Shark/Hello World.md",
             "mode": "source"
           }
         }
@@ -45,7 +45,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "fd6b38e2b2fb3a73",
@@ -57,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Shark/Hello World.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,7 +74,8 @@
   },
   "active": "722daa44e2bafefc",
   "lastOpenFiles": [
-    "README.md",
-    "Hello World.md"
+    "Shark/Hello World.md",
+    "Marsupial/Kangaroo.md",
+    "README.md"
   ]
 }
