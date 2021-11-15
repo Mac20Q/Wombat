@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Poisonous Spiders.md",
+            "file": "Willy the Wombat.md",
             "mode": "source"
           }
         }
@@ -58,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Poisonous Spiders.md",
+            "file": "Willy the Wombat.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -74,9 +74,10 @@
   },
   "active": "722daa44e2bafefc",
   "lastOpenFiles": [
+    "Willy the Wombat.md",
+    "Marsupial/pouch.md",
     "Poisonous Spiders.md",
     "Shark/Hello World.md",
-    "Marsupial/Kangaroo.md",
-    "README.md"
+    "Marsupial/Kangaroo.md"
   ]
 }
