@@ -1,28 +1,25 @@
 {
   "main": {
-    "id": "ac802c52f08327c1",
+    "id": "53eb2cfe0e168ecd",
     "type": "split",
     "children": [
       {
-        "id": "ced505bd44e7aeea",
+        "id": "c3df236a1e45bfa8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "53a47ab1248a701b",
+    "id": "97692035fe267a69",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b88f7ec58f8b3fb5",
+        "id": "43ab418def9a6e64",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -30,7 +27,7 @@
         }
       },
       {
-        "id": "452bac20cdfaf968",
+        "id": "d228bb5d2af350b0",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -48,16 +45,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "bd607865da7d12c7",
+    "id": "f8f5cd740f514d0c",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "70473d4f3f2953c8",
+        "id": "d111e14912de366c",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -71,12 +67,6 @@
     ],
     "currentTab": 0
   },
-  "active": "ced505bd44e7aeea",
-  "lastOpenFiles": [
-    "README.md",
-    "Shark/Hello World.md",
-    "Marsupial/Kangaroo.md",
-    "Kangaroo.md",
-    "Hello World.md"
-  ]
+  "active": "c3df236a1e45bfa8",
+  "lastOpenFiles": []
 }
